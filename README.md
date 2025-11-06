@@ -1,6 +1,6 @@
 # Gamer Countdown Timer
 
-Edited from my [pomodoro-timer](https://github.com/BinaryDigitDev/pomodoro-timer) repo for KilobyteKeith's game stream!
+Edited from my [pomodoro-timer](https://github.com/BinaryDigitlol/pomodoro-timer) repo for KilobyteKeith's game stream!
 
 <hr>
 
